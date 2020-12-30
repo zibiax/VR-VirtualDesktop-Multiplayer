@@ -1,0 +1,2009 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 32698 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\Martin Evenbom\Documents\2020.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Martin Evenbom/Documents/GitHub/VRCARNIVAL/VirtualDesktop Multiplayer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61139
+Successfully changed project path to: C:/Users/Martin Evenbom/Documents/GitHub/VRCARNIVAL/VirtualDesktop Multiplayer
+C:/Users/Martin Evenbom/Documents/GitHub/VRCARNIVAL/VirtualDesktop Multiplayer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Users/Martin Evenbom/Documents/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Martin Evenbom/Documents/GitHub/VRCARNIVAL/VirtualDesktop Multiplayer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'C:/Users/Martin Evenbom/Documents/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/Martin Evenbom/Documents/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/Martin Evenbom/Documents/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56692
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/Martin Evenbom/Documents/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002996 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.389 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001173 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.188 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2052 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2497.
+Total: 2.191500 ms (FindLiveObjects: 0.235700 ms CreateObjectMapping: 0.054400 ms MarkObjects: 1.851100 ms  DeleteObjects: 0.049100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/XR Rig.prefab
+  artifactKey: Guid(52e97c4b7abd82149981f68eb8dc62fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR Rig.prefab using Guid(52e97c4b7abd82149981f68eb8dc62fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5a4c2cacb6cefedda196a44ed87ecd7') in 0.453255 seconds
+  Import took 0.457766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.965659 seconds.
+  path: Assets/Scripts/Extra/OffsetGrab.cs
+  artifactKey: Guid(ddf84ce02545f5144b769b08f901cf2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Extra/OffsetGrab.cs using Guid(ddf84ce02545f5144b769b08f901cf2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca81c338561fbf12bc1151601609cb4') in 0.106005 seconds
+  Import took 0.109566 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001040 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.162 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2043 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2508.
+Total: 2.871900 ms (FindLiveObjects: 0.256400 ms CreateObjectMapping: 0.057700 ms MarkObjects: 2.529000 ms  DeleteObjects: 0.026700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 510.744061 seconds.
+  path: Assets/XR Rig.prefab
+  artifactKey: Guid(52e97c4b7abd82149981f68eb8dc62fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR Rig.prefab using Guid(52e97c4b7abd82149981f68eb8dc62fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b85110d4557591ef3e2f71526ef893') in 0.121908 seconds
+  Import took 0.126297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 358.768556 seconds.
+  path: Assets/XR Rig.prefab
+  artifactKey: Guid(52e97c4b7abd82149981f68eb8dc62fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR Rig.prefab using Guid(52e97c4b7abd82149981f68eb8dc62fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a425c0f33187fb0b086300b81df8804') in 0.025760 seconds
+  Import took 0.030167 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006810 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 123 unused Assets to reduce memory usage. Loaded Objects now: 2972.
+Total: 4.632100 ms (FindLiveObjects: 0.345300 ms CreateObjectMapping: 0.076400 ms MarkObjects: 3.433000 ms  DeleteObjects: 0.775100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.650704 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoHub/DemoHub-Scene.unity
+  artifactKey: Guid(7dfd47dc8b9484dd79d8636d8603a9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoHub/DemoHub-Scene.unity using Guid(7dfd47dc8b9484dd79d8636d8603a9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec570173da6fac76b149946fa0fa731d') in 0.018170 seconds
+  Import took 0.022649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.882751 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+  artifactKey: Guid(842950a4092cb5d4e8847b08665ef090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(842950a4092cb5d4e8847b08665ef090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bebe759f3e8f07c7e24043d54103ae6d') in 0.009117 seconds
+  Import took 0.014091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014345 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+  artifactKey: Guid(842950a4092cb5d4e8847b08665ef090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(842950a4092cb5d4e8847b08665ef090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bebe759f3e8f07c7e24043d54103ae6d') in 0.003883 seconds
+  Import took 0.008500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 339.355283 seconds.
+  path: Assets/Photon/Simple/Components/Mount/Resources/MountSettings.asset
+  artifactKey: Guid(19be1b5806e2ee34b85c76197bd46adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/Simple/Components/Mount/Resources/MountSettings.asset using Guid(19be1b5806e2ee34b85c76197bd46adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af3de118f4f88479b4ce75da7aefc6af') in 0.007150 seconds
+  Import took 0.012048 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011929 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.378 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.5 MB.
+System memory in use after: 122.7 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 2977.
+Total: 3.783000 ms (FindLiveObjects: 0.514900 ms CreateObjectMapping: 0.115500 ms MarkObjects: 2.497900 ms  DeleteObjects: 0.652800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1202.549170 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(14813cfdb3eee08408b19f54da238355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(14813cfdb3eee08408b19f54da238355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c0ad6ade8be62d062b6d1dc4c9ba4f') in 0.010913 seconds
+  Import took 0.016039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.236364 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd0de368a36be2462c316be83692fe5a') in 0.015762 seconds
+  Import took 0.020417 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007256 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.255 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.7 MB.
+System memory in use after: 122.9 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 2981.
+Total: 3.428900 ms (FindLiveObjects: 0.534300 ms CreateObjectMapping: 0.083600 ms MarkObjects: 2.192700 ms  DeleteObjects: 0.616100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007869 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.562 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.8 MB.
+System memory in use after: 123.0 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 2985.
+Total: 5.270500 ms (FindLiveObjects: 0.581000 ms CreateObjectMapping: 0.147800 ms MarkObjects: 3.699200 ms  DeleteObjects: 0.840600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006559 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.338 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.9 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 2989.
+Total: 4.226400 ms (FindLiveObjects: 0.550300 ms CreateObjectMapping: 0.116500 ms MarkObjects: 2.825500 ms  DeleteObjects: 0.731500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2989.
+Total: 2.883200 ms (FindLiveObjects: 0.395600 ms CreateObjectMapping: 0.083200 ms MarkObjects: 2.354900 ms  DeleteObjects: 0.048000 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.6 MB.
+System memory in use after: 69.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2989.
+Total: 3.567300 ms (FindLiveObjects: 0.310600 ms CreateObjectMapping: 0.072800 ms MarkObjects: 3.123000 ms  DeleteObjects: 0.059400 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.6 MB.
+System memory in use after: 69.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2989.
+Total: 3.123900 ms (FindLiveObjects: 0.375600 ms CreateObjectMapping: 0.082600 ms MarkObjects: 2.599200 ms  DeleteObjects: 0.064600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 562.440663 seconds.
+  path: Assets/Photon
+  artifactKey: Guid(98951132346795f438babe7a3183da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon using Guid(98951132346795f438babe7a3183da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9590bddece66025208f0bd01dccae33b') in 0.007568 seconds
+  Import took 0.012479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/Photon
+  artifactKey: Guid(98951132346795f438babe7a3183da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon using Guid(98951132346795f438babe7a3183da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9590bddece66025208f0bd01dccae33b') in 0.003428 seconds
+  Import took 0.008395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.411062 seconds.
+  path: Assets/Photon/Simple
+  artifactKey: Guid(fc3ab0446500b054f98af4bab1e3e1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/Simple using Guid(fc3ab0446500b054f98af4bab1e3e1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c9cfd644150ee666798a5dfd2d3729') in 0.003635 seconds
+  Import took 0.008211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001081 seconds.
+  path: Assets/Photon/Simple
+  artifactKey: Guid(fc3ab0446500b054f98af4bab1e3e1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/Simple using Guid(fc3ab0446500b054f98af4bab1e3e1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c9cfd644150ee666798a5dfd2d3729') in 0.003402 seconds
+  Import took 0.008567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.373013 seconds.
+  path: Assets/Photon/PhotonRealtime
+  artifactKey: Guid(b54c221855bde4a4ba511877e7b6b904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime using Guid(b54c221855bde4a4ba511877e7b6b904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0edef7bd137681bea9b49191126451ee') in 0.004736 seconds
+  Import took 0.009221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001207 seconds.
+  path: Assets/Photon/PhotonRealtime
+  artifactKey: Guid(b54c221855bde4a4ba511877e7b6b904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime using Guid(b54c221855bde4a4ba511877e7b6b904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0edef7bd137681bea9b49191126451ee') in 0.003054 seconds
+  Import took 0.008260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.857994 seconds.
+  path: Assets/Photon/PhotonRealtime/Demos
+  artifactKey: Guid(5456c843f3eadef4f86166dc7f3ab583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime/Demos using Guid(5456c843f3eadef4f86166dc7f3ab583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303e8f07b408974239fd22e26ddf3c8b') in 0.004051 seconds
+  Import took 0.009347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001157 seconds.
+  path: Assets/Photon/PhotonRealtime/Demos
+  artifactKey: Guid(5456c843f3eadef4f86166dc7f3ab583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime/Demos using Guid(5456c843f3eadef4f86166dc7f3ab583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303e8f07b408974239fd22e26ddf3c8b') in 0.003044 seconds
+  Import took 0.007360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.917855 seconds.
+  path: Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing
+  artifactKey: Guid(32dc3abb17a2b434a9b7b347bdbea7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing using Guid(32dc3abb17a2b434a9b7b347bdbea7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137a68798d9d590db732f77482d75edb') in 0.003958 seconds
+  Import took 0.008254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001415 seconds.
+  path: Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing
+  artifactKey: Guid(32dc3abb17a2b434a9b7b347bdbea7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing using Guid(32dc3abb17a2b434a9b7b347bdbea7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137a68798d9d590db732f77482d75edb') in 0.003265 seconds
+  Import took 0.008379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070896 seconds.
+  path: Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/Jura-Medium-LB.ttf
+  artifactKey: Guid(4a4df204c321f9c40b0dbfb1baaffb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/Jura-Medium-LB.ttf using Guid(4a4df204c321f9c40b0dbfb1baaffb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b5629fe8df31b1b5ddf652f31e74aa') in 0.097011 seconds
+  Import took 0.101646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.620846 seconds.
+  path: Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/DemoLoadBalancing-Scene.unity
+  artifactKey: Guid(a73b0cac1a73cc346aaeb5f8dd0b53f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/DemoLoadBalancing-Scene.unity using Guid(a73b0cac1a73cc346aaeb5f8dd0b53f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16552da6085d1831e24f8b1369592129') in 0.004458 seconds
+  Import took 0.010198 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.9 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3027.
+Total: 3.166000 ms (FindLiveObjects: 0.308900 ms CreateObjectMapping: 0.069800 ms MarkObjects: 2.737700 ms  DeleteObjects: 0.048400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006208 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.324 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.0 MB.
+System memory in use after: 124.1 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 3031.
+Total: 4.806300 ms (FindLiveObjects: 0.515000 ms CreateObjectMapping: 0.123100 ms MarkObjects: 3.260500 ms  DeleteObjects: 0.905600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008119 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.299 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 124.3 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 3036.
+Total: 5.999900 ms (FindLiveObjects: 0.622300 ms CreateObjectMapping: 0.201200 ms MarkObjects: 4.527500 ms  DeleteObjects: 0.647000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006473 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.342 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.2 MB.
+System memory in use after: 124.4 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 3040.
+Total: 3.525000 ms (FindLiveObjects: 0.360000 ms CreateObjectMapping: 0.078900 ms MarkObjects: 2.398600 ms  DeleteObjects: 0.685600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 760.102172 seconds.
+  path: Assets/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b3e5d25fff9a34914a2575d8422ae7') in 0.084282 seconds
+  Import took 0.089429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002340 seconds.
+  path: Assets/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b3e5d25fff9a34914a2575d8422ae7') in 0.009564 seconds
+  Import took 0.014902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.345088 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(5397af2fe5cde23499507938eed16b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(5397af2fe5cde23499507938eed16b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0dc568c0a4fd1eadf398c46032d3146') in 0.003493 seconds
+  Import took 0.008232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057694 seconds.
+  path: Assets/Resources/ONSPSettings.asset
+  artifactKey: Guid(272183c65f9a1c04bbdf5c4110d924bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/ONSPSettings.asset using Guid(272183c65f9a1c04bbdf5c4110d924bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a7f1e8b0e6a74f67f9e8afc0bba1bf') in 0.005095 seconds
+  Import took 0.009662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Resources/OVRPlatformToolSettings.asset
+  artifactKey: Guid(690b06affb3cfc94889075066a694ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/OVRPlatformToolSettings.asset using Guid(690b06affb3cfc94889075066a694ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57b05e462770fcada4b8de39d440956d') in 0.004315 seconds
+  Import took 0.008962 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006487 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.359 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.4 MB.
+System memory in use after: 124.5 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 3046.
+Total: 3.174400 ms (FindLiveObjects: 0.409400 ms CreateObjectMapping: 0.075800 ms MarkObjects: 2.072000 ms  DeleteObjects: 0.615400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.825985 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485c0d06e76f33693bd84f3f96869d55') in 0.085246 seconds
+  Import took 0.091157 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006627 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.356 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.5 MB.
+System memory in use after: 124.7 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 3051.
+Total: 3.692300 ms (FindLiveObjects: 0.460300 ms CreateObjectMapping: 0.164400 ms MarkObjects: 2.449400 ms  DeleteObjects: 0.616200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006297 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.345 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.6 MB.
+System memory in use after: 124.8 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3055.
+Total: 3.270100 ms (FindLiveObjects: 0.336700 ms CreateObjectMapping: 0.090500 ms MarkObjects: 2.185600 ms  DeleteObjects: 0.656000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007251 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.278 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.7 MB.
+System memory in use after: 124.9 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3059.
+Total: 3.667600 ms (FindLiveObjects: 0.484000 ms CreateObjectMapping: 0.111500 ms MarkObjects: 2.355400 ms  DeleteObjects: 0.714400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 265.695178 seconds.
+  path: Assets/Resources/ONSPSettings.asset
+  artifactKey: Guid(d9e000107598d454282a659ef4694d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/ONSPSettings.asset using Guid(d9e000107598d454282a659ef4694d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f477c24186be3253ff1633e62956b94') in 0.023935 seconds
+  Import took 0.029025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Resources/OVRPlatformToolSettings.asset
+  artifactKey: Guid(e38d1bd6572a3424087d5c053c79736a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/OVRPlatformToolSettings.asset using Guid(e38d1bd6572a3424087d5c053c79736a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4051f32afa77df0ebd2073e11eb2bbe') in 0.007850 seconds
+  Import took 0.013193 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010069 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.342 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.9 MB.
+System memory in use after: 124.1 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3063.
+Total: 5.829600 ms (FindLiveObjects: 0.619100 ms CreateObjectMapping: 0.137400 ms MarkObjects: 3.983700 ms  DeleteObjects: 1.086700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006931 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.278 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.0 MB.
+System memory in use after: 124.2 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3067.
+Total: 3.578900 ms (FindLiveObjects: 0.380000 ms CreateObjectMapping: 0.091600 ms MarkObjects: 2.447600 ms  DeleteObjects: 0.657600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006375 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.392 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 124.3 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3071.
+Total: 3.372300 ms (FindLiveObjects: 0.505400 ms CreateObjectMapping: 0.104400 ms MarkObjects: 2.118000 ms  DeleteObjects: 0.642900 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.6 MB.
+System memory in use after: 70.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3071.
+Total: 3.158700 ms (FindLiveObjects: 0.372200 ms CreateObjectMapping: 0.075200 ms MarkObjects: 2.587100 ms  DeleteObjects: 0.122400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006853 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.518 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.4 MB.
+System memory in use after: 124.6 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3075.
+Total: 4.342900 ms (FindLiveObjects: 0.518100 ms CreateObjectMapping: 0.102300 ms MarkObjects: 2.926900 ms  DeleteObjects: 0.793800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007305 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.527 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.5 MB.
+System memory in use after: 124.7 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 3.525400 ms (FindLiveObjects: 0.405800 ms CreateObjectMapping: 0.080000 ms MarkObjects: 2.373800 ms  DeleteObjects: 0.662600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006551 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.309 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.7 MB.
+System memory in use after: 124.8 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3083.
+Total: 3.528000 ms (FindLiveObjects: 0.347500 ms CreateObjectMapping: 0.074500 ms MarkObjects: 2.336000 ms  DeleteObjects: 0.768300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006883 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.423 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.8 MB.
+System memory in use after: 125.0 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3087.
+Total: 3.873000 ms (FindLiveObjects: 0.338200 ms CreateObjectMapping: 0.076000 ms MarkObjects: 2.793400 ms  DeleteObjects: 0.663400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006773 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.8 MB.
+System memory in use after: 125.0 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3091.
+Total: 4.877100 ms (FindLiveObjects: 0.423400 ms CreateObjectMapping: 0.082500 ms MarkObjects: 3.617800 ms  DeleteObjects: 0.751700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007054 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.0 MB.
+System memory in use after: 124.2 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3095.
+Total: 3.914300 ms (FindLiveObjects: 0.463900 ms CreateObjectMapping: 0.100800 ms MarkObjects: 2.701000 ms  DeleteObjects: 0.646400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80468.841667 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a0010b25c52743da95e8a29bfc0c65') in 0.221920 seconds
+  Import took 0.282108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.379479 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af395527bdb4a8bc317e3638596e29b') in 0.006143 seconds
+  Import took 0.011368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.020812 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc6349e95d1988b886319dfebbb222f') in 0.006880 seconds
+  Import took 0.012460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.779590 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b245eb95925a5c37cd97293b9b9dd4a') in 0.006990 seconds
+  Import took 0.012728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.217577 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dcc7950786726b6fbfc72ea7dadc97') in 0.007460 seconds
+  Import took 0.014163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.788548 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '987286e7e72c4d605a151fb5377d3ae2') in 0.006427 seconds
+  Import took 0.011221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.453727 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e3e2933c2ffc58f70f33d76b8ec6af7') in 0.007456 seconds
+  Import took 0.014597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.022907 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e724828549ba54c81d7f56821205d49b') in 0.008049 seconds
+  Import took 0.014282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.656321 seconds.
+  path: Assets/prefabs
+  artifactKey: Guid(e09f9a0e33bc0bd4091a964c9313bdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs using Guid(e09f9a0e33bc0bd4091a964c9313bdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabdada19951c8f2bd2e300bedebab13') in 0.004404 seconds
+  Import took 0.008956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/prefabs
+  artifactKey: Guid(e09f9a0e33bc0bd4091a964c9313bdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs using Guid(e09f9a0e33bc0bd4091a964c9313bdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabdada19951c8f2bd2e300bedebab13') in 0.004086 seconds
+  Import took 0.009600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.084908 seconds.
+  path: Assets/prefabs/Hand
+  artifactKey: Guid(e1b229cc749071740a58a98352a08142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/Hand using Guid(e1b229cc749071740a58a98352a08142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779af0b9c7e5a9c0b52b4f341b4e4c08') in 0.004703 seconds
+  Import took 0.010823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001167 seconds.
+  path: Assets/prefabs/Hand
+  artifactKey: Guid(e1b229cc749071740a58a98352a08142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/Hand using Guid(e1b229cc749071740a58a98352a08142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779af0b9c7e5a9c0b52b4f341b4e4c08') in 0.003384 seconds
+  Import took 0.008025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083308 seconds.
+  path: Assets/prefabs/Hand/Hand_Left.prefab
+  artifactKey: Guid(50b0ad0913843dc4f820aae6010fc65f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/Hand/Hand_Left.prefab using Guid(50b0ad0913843dc4f820aae6010fc65f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6bf0dd420bef0f0a9ad499b46a2f7d3') in 0.089977 seconds
+  Import took 0.096309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/prefabs/Hand/Hand_Right.prefab
+  artifactKey: Guid(142de5c27643e9a4fa3f29573aedd1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/Hand/Hand_Right.prefab using Guid(142de5c27643e9a4fa3f29573aedd1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783f59c4b1a48189276917939853083e') in 0.021531 seconds
+  Import took 0.026896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.738654 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/windows_2.mat
+  artifactKey: Guid(db1318ffb13bfef419a8dad09473425d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/windows_2.mat using Guid(db1318ffb13bfef419a8dad09473425d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea9fa4daf2bb95747af397f22e46aaf') in 0.036156 seconds
+  Import took 0.041360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/Yellow.mat
+  artifactKey: Guid(90623549d4482f042ade35d8a0758e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/Yellow.mat using Guid(90623549d4482f042ade35d8a0758e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27530c0f6a12219e0b544357df44da6') in 0.014254 seconds
+  Import took 0.019716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.462539 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/WhiteSmooth.mat
+  artifactKey: Guid(b05171e12835ff84fb155f51d69d7c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/WhiteSmooth.mat using Guid(b05171e12835ff84fb155f51d69d7c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c677a5f77d42336c9cb36546edea073') in 0.035512 seconds
+  Import took 0.040382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/WhiteUnlit.mat
+  artifactKey: Guid(073b1ee561def20429e655b5c8893ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/WhiteUnlit.mat using Guid(073b1ee561def20429e655b5c8893ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4842cc1038defd5e26b1252966f705cc') in 0.015374 seconds
+  Import took 0.019624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094666 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/Materials/wall.mat
+  artifactKey: Guid(b5e9e0cb388c83440adfb6c0c023ee8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/Materials/wall.mat using Guid(b5e9e0cb388c83440adfb6c0c023ee8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866e01f5094836af94bda5e593515f31') in 0.012236 seconds
+  Import took 0.016849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/Materials/white.mat
+  artifactKey: Guid(db16216c3f288ea4eb77dfefecada55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/Materials/white.mat using Guid(db16216c3f288ea4eb77dfefecada55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131fc2e54e9c6ffb3e2bd4644c1d6e2d') in 0.011908 seconds
+  Import took 0.016537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.648905 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Materials/UnitTextureYellow12x.mat
+  artifactKey: Guid(ceba02e8dfaf34474b36fe43b51b69db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Materials/UnitTextureYellow12x.mat using Guid(ceba02e8dfaf34474b36fe43b51b69db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a963aacef3cf585d26f6f5a76ffb73e') in 0.023383 seconds
+  Import took 0.028455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Meshes/SK_Hand.fbx
+  artifactKey: Guid(a0f2e416fe09a3e458e3da32b275ae31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SK_Hand.fbx using Guid(a0f2e416fe09a3e458e3da32b275ae31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602f9ecfb5e26b54edf10e840740072f') in 0.139608 seconds
+  Import took 0.144002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/UnitTextureRed.mat
+  artifactKey: Guid(4c506c95d32f3494e9453ef5c0124b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/UnitTextureRed.mat using Guid(4c506c95d32f3494e9453ef5c0124b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e72957ecbb7ba857018a2ec76112f9') in 0.011781 seconds
+  Import took 0.016265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Materials/UnitTextureRed12x.mat
+  artifactKey: Guid(3f171282ef46c4fbea54d9ab581fcb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Materials/UnitTextureRed12x.mat using Guid(3f171282ef46c4fbea54d9ab581fcb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a246b939166067dcb6f6a54b4de83cd5') in 0.012358 seconds
+  Import took 0.017000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.845837 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cbaf93a713bd7b94af0cda7fd891701') in 0.028556 seconds
+  Import took 0.034184 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012782 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.602 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.1 MB.
+System memory in use after: 125.3 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3107.
+Total: 5.228300 ms (FindLiveObjects: 0.563100 ms CreateObjectMapping: 0.254100 ms MarkObjects: 3.542600 ms  DeleteObjects: 0.866400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.004294 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adbf5df0fe11988f8b8ebd4de10a416') in 0.090730 seconds
+  Import took 0.096265 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006550 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.316 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.3 MB.
+System memory in use after: 125.5 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3112.
+Total: 3.575400 ms (FindLiveObjects: 0.430400 ms CreateObjectMapping: 0.184300 ms MarkObjects: 2.327100 ms  DeleteObjects: 0.631600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007181 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.482 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.5 MB.
+System memory in use after: 125.7 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3116.
+Total: 6.311300 ms (FindLiveObjects: 1.036200 ms CreateObjectMapping: 0.424900 ms MarkObjects: 3.749700 ms  DeleteObjects: 1.097000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 761.076567 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ed828e741884f9ae1056974c01a7990') in 0.089709 seconds
+  Import took 0.094895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004482 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ed828e741884f9ae1056974c01a7990') in 0.020832 seconds
+  Import took 0.026247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.941946 seconds.
+  path: Assets/Resources/Network Player.prefab
+  artifactKey: Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Network Player.prefab using Guid(3ff7e479f098cc24a961c0009bbd427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4d6cb197bf6a23b3879cbe137fbea8') in 0.036692 seconds
+  Import took 0.044434 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007220 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.488 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.7 MB.
+System memory in use after: 125.9 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3121.
+Total: 4.096300 ms (FindLiveObjects: 0.424400 ms CreateObjectMapping: 0.102500 ms MarkObjects: 2.839800 ms  DeleteObjects: 0.727600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007558 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.339 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.8 MB.
+System memory in use after: 126.0 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3125.
+Total: 4.287200 ms (FindLiveObjects: 0.391300 ms CreateObjectMapping: 0.086300 ms MarkObjects: 2.800800 ms  DeleteObjects: 1.007300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006360 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.311 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.0 MB.
+System memory in use after: 125.2 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3129.
+Total: 3.416100 ms (FindLiveObjects: 0.335100 ms CreateObjectMapping: 0.074700 ms MarkObjects: 2.364100 ms  DeleteObjects: 0.640700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006501 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Photon.Compression.Internal.TypeCatalogue:EnsureExists () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:210)
+Photon.Compression.Internal.TypeCatalogue:Initialize () (at Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs:56)
+
+[Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs line 210]
+
+UnityException: Creating asset at path Assets/Photon/PhotonUtilities\PackObject\CodeGen\Editor\Resources\TypeCatalogue.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at Photon.Compression.Internal.TypeCatalogue.EnsureExists () [0x0005e] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:210 
+  at Photon.Compression.Internal.TypeCatalogue.Initialize () [0x00005] in C:\Users\Martin Evenbom\Documents\GitHub\VRCARNIVAL\VirtualDesktop Multiplayer\Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeCatalogue.cs:56 
+
+(Filename: Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs Line: 210)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.384 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.2 MB.
+System memory in use after: 125.4 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3133.
+Total: 4.035400 ms (FindLiveObjects: 0.477100 ms CreateObjectMapping: 0.107200 ms MarkObjects: 2.786000 ms  DeleteObjects: 0.663400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1326.410886 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b41cfa13f056e58f64cf5f3363de7353') in 0.009434 seconds
+  Import took 0.015051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 190.856075 seconds.
+  path: Assets/VR Desktop Mirror/Materials
+  artifactKey: Guid(3653140957f70d149a36ee2f43876437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Materials using Guid(3653140957f70d149a36ee2f43876437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507b558c093e31103bffe914c3be7b23') in 0.003588 seconds
+  Import took 0.008604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068618 seconds.
+  path: Assets/VR Desktop Mirror/Materials/ControllerLine.mat
+  artifactKey: Guid(ed9e15209dd3a544ca44978eb2efa55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Materials/ControllerLine.mat using Guid(ed9e15209dd3a544ca44978eb2efa55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a58165e6ea3caa1ea0174b0b27475d4') in 0.089020 seconds
+  Import took 0.093905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/VR Desktop Mirror/Materials/Monitor.mat
+  artifactKey: Guid(9841881fde8580f4d95bdd9897e98041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Materials/Monitor.mat using Guid(9841881fde8580f4d95bdd9897e98041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec640b1da526e30b590ea070096fe88') in 0.012478 seconds
+  Import took 0.017138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.506807 seconds.
+  path: Assets/VR Desktop Mirror/Hack
+  artifactKey: Guid(76a6f161e26f26b449705f13170cfa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Hack using Guid(76a6f161e26f26b449705f13170cfa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c752644f1481970e0fd80c11096ebe') in 0.005009 seconds
+  Import took 0.009905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000765 seconds.
+  path: Assets/VR Desktop Mirror/Hack
+  artifactKey: Guid(76a6f161e26f26b449705f13170cfa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Hack using Guid(76a6f161e26f26b449705f13170cfa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c752644f1481970e0fd80c11096ebe') in 0.003061 seconds
+  Import took 0.007627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.859876 seconds.
+  path: Assets/VR Desktop Mirror/Hack/VrDesktopMirrorWorkaround.exe
+  artifactKey: Guid(f26c7c94748876246a440109b6d5d16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Hack/VrDesktopMirrorWorkaround.exe using Guid(f26c7c94748876246a440109b6d5d16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b64bab9a83314e81d9cf832fbc200c') in 0.010204 seconds
+  Import took 0.015223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.117662 seconds.
+  path: Assets/VR Desktop Mirror/Shader
+  artifactKey: Guid(9477f8ec09aaf774ca097f1ab75bf706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Shader using Guid(9477f8ec09aaf774ca097f1ab75bf706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c39bb6a73408fccf24ed8c502ac86d6') in 0.003909 seconds
+  Import took 0.008562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000618 seconds.
+  path: Assets/VR Desktop Mirror/Shader
+  artifactKey: Guid(9477f8ec09aaf774ca097f1ab75bf706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Shader using Guid(9477f8ec09aaf774ca097f1ab75bf706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c39bb6a73408fccf24ed8c502ac86d6') in 0.002992 seconds
+  Import took 0.007221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.309699 seconds.
+  path: Assets/VR Desktop Mirror/Scripts
+  artifactKey: Guid(3b5b5141582b1464b927d3b262a70480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Scripts using Guid(3b5b5141582b1464b927d3b262a70480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd21dedccc30d146917325860e9922c') in 0.005246 seconds
+  Import took 0.012347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001654 seconds.
+  path: Assets/VR Desktop Mirror/Scripts
+  artifactKey: Guid(3b5b5141582b1464b927d3b262a70480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Scripts using Guid(3b5b5141582b1464b927d3b262a70480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd21dedccc30d146917325860e9922c') in 0.004506 seconds
+  Import took 0.011338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.638999 seconds.
+  path: Assets/VR Desktop Mirror/Plugins
+  artifactKey: Guid(1782e97778945294299b8a98d8e1fe9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Plugins using Guid(1782e97778945294299b8a98d8e1fe9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ba9563aa26f84b0f9493e4bf392ea8') in 0.003667 seconds
+  Import took 0.010037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000989 seconds.
+  path: Assets/VR Desktop Mirror/Plugins
+  artifactKey: Guid(1782e97778945294299b8a98d8e1fe9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Plugins using Guid(1782e97778945294299b8a98d8e1fe9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ba9563aa26f84b0f9493e4bf392ea8') in 0.003173 seconds
+  Import took 0.007992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.133611 seconds.
+  path: Assets/VR Desktop Mirror/Plugins/x86_64
+  artifactKey: Guid(c2cee498be77ff444b54f38a09b627dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Plugins/x86_64 using Guid(c2cee498be77ff444b54f38a09b627dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1efcb780dcaad28a3cb72f32f158a8c6') in 0.004000 seconds
+  Import took 0.009482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.405594 seconds.
+  path: Assets/VR Desktop Mirror
+  artifactKey: Guid(95a4be692ac82f740bf6878372af8e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror using Guid(95a4be692ac82f740bf6878372af8e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88fae86d3dae9dd0bc4f2d2f1bea854') in 0.004039 seconds
+  Import took 0.009690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/VR Desktop Mirror
+  artifactKey: Guid(95a4be692ac82f740bf6878372af8e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror using Guid(95a4be692ac82f740bf6878372af8e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88fae86d3dae9dd0bc4f2d2f1bea854') in 0.002967 seconds
+  Import took 0.008023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.756714 seconds.
+  path: Assets/VR Desktop Mirror/Prefabs
+  artifactKey: Guid(158d4c6d69950c147bc3e4d7028dc76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Prefabs using Guid(158d4c6d69950c147bc3e4d7028dc76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e61a30510c47978dc60448048360d0') in 0.003415 seconds
+  Import took 0.008628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000608 seconds.
+  path: Assets/VR Desktop Mirror/Prefabs
+  artifactKey: Guid(158d4c6d69950c147bc3e4d7028dc76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Prefabs using Guid(158d4c6d69950c147bc3e4d7028dc76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e61a30510c47978dc60448048360d0') in 0.003322 seconds
+  Import took 0.007411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072064 seconds.
+  path: Assets/VR Desktop Mirror/Prefabs/VR Desktop Mirror.prefab
+  artifactKey: Guid(3908c3789f003564ba882cd413134aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Desktop Mirror/Prefabs/VR Desktop Mirror.prefab using Guid(3908c3789f003564ba882cd413134aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491d70c400187a03ceb71f27f1b9baf5') in 0.023454 seconds
+  Import took 0.028363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2194.785553 seconds.
+  path: Assets/Animations/Hand/AN_CloseHand.fbx
+  artifactKey: Guid(e343ee005322a2b479892c283d16a8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Hand/AN_CloseHand.fbx using Guid(e343ee005322a2b479892c283d16a8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6757c2b3e02b88a4dad6169915af9eb9') in 0.020563 seconds
+  Import took 0.029060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001150 seconds.
+  path: Assets/Animations/Hand/AN_CloseHand.fbx
+  artifactKey: Guid(e343ee005322a2b479892c283d16a8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Hand/AN_CloseHand.fbx using Guid(e343ee005322a2b479892c283d16a8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6757c2b3e02b88a4dad6169915af9eb9') in 0.006510 seconds
+  Import took 0.011163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.724149 seconds.
+  path: Assets/Animations/Hand/HandAnimator.controller
+  artifactKey: Guid(92c208c026838c0489a77c7db4965bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Hand/HandAnimator.controller using Guid(92c208c026838c0489a77c7db4965bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '339ab19851fef3834772416fcf398bfd') in 0.014653 seconds
+  Import took 0.020121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 206.952847 seconds.
+  path: Assets/Scripts/Hand Scripts/HandAnimator.cs
+  artifactKey: Guid(bcdba9caf664b1b47a57882aea8f9a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Hand Scripts/HandAnimator.cs using Guid(bcdba9caf664b1b47a57882aea8f9a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd2f2faf4b3db13f29fff74fc18d8f73') in 0.003178 seconds
+  Import took 0.007954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.702692 seconds.
+  path: Assets/Scripts/Hand Scripts/Finger.cs
+  artifactKey: Guid(ac0601a6708060e44973e08943778752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Hand Scripts/Finger.cs using Guid(ac0601a6708060e44973e08943778752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e307693e645016f6356d0de301e6af') in 0.003629 seconds
+  Import took 0.008485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.506071 seconds.
+  path: Assets/Scripts/Hand Scripts/HandHider.cs
+  artifactKey: Guid(d769d9eb96307b3449d6ce0ea195c82c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Hand Scripts/HandHider.cs using Guid(d769d9eb96307b3449d6ce0ea195c82c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38c845fa761a49807023f46313db4f65') in 0.003560 seconds
+  Import took 0.008898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.882726 seconds.
+  path: Assets/Scripts/Hand Scripts/HandPhysics.cs
+  artifactKey: Guid(fa7e21c36734a424bb0a8918ab12cdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Hand Scripts/HandPhysics.cs using Guid(fa7e21c36734a424bb0a8918ab12cdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731c20d2ab802a2177ae4abe4b38cc1a') in 0.003631 seconds
+  Import took 0.008499 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
