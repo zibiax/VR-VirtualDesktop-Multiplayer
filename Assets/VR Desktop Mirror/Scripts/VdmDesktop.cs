@@ -75,8 +75,8 @@ public class VdmDesktop : MonoBehaviour
         bool skip = false;
         if (Visible() == false)
             skip = true;
-        if (m_controllerAttach) && (m_zoom == false)
-            skip = true;
+        /*if (m_controllerAttach) && (m_zoom == false)
+            skip = true; */
         if (skip == false)
         {   
             float step = 0;

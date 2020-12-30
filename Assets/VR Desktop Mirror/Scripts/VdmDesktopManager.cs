@@ -1,10 +1,11 @@
-﻿#define VDM_SteamVR
+﻿// #define VDM_SteamVR
 
 using UnityEngine;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
+using UnityEngine.XR;
 
 public class VdmDesktopManager : MonoBehaviour {
 
@@ -284,9 +285,9 @@ public class VdmDesktopManager : MonoBehaviour {
 
         ActionInThisFrame = false;
 
-        if (UnityEngine.VR.VRSettings.renderScale != RenderScale)
-            UnityEngine.VR.VRSettings.renderScale = RenderScale;
-
+       /* if (UnityEngine.XR.VRSettings.renderScale != RenderScale)
+            UnityEngine.XR.VRSettings.renderScale = RenderScale;
+       */
         needReinit = DesktopCapturePlugin_GetNeedReInit();
         
         if (needReinit > 1000)
@@ -294,7 +295,7 @@ public class VdmDesktopManager : MonoBehaviour {
 
         if(Input.GetKeyDown(KeyCode.R))
         {
-            UnityEngine.VR.InputTracking.Recenter();    
+            UnityEngine.XR.InputTracking.Recenter();
         }
 
         foreach (VdmDesktop monitor in Monitors)
