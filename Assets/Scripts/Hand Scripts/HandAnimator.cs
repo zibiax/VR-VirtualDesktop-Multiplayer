@@ -35,8 +35,8 @@ public class HandAnimator : MonoBehaviour
     private void Update()
     {
         // Store input
-        CheckGrip();
-        CheckPointer();
+     // CheckGrip();
+     // CheckPointer();
         // Smooth input values
         SmoothFinger(pointFingers);
         SmoothFinger(gripFingers);
@@ -45,22 +45,23 @@ public class HandAnimator : MonoBehaviour
         AnimateFinger(pointFingers);
         AnimateFinger(gripFingers);
     }
-
+    /*
     private void CheckGrip()
     {
         if (controller.inputDevice.TryGetFeatureValue(CommonUsages.grip, out float gripValue))
             SetFingerTargets(gripFingers, gripValue);
+
     }
-
+    */
     // If the controll can grip it will pull the different values from the controller for the approriate finger/s
-
+    /*
     private void CheckPointer()
     {
         if (controller.inputDevice.TryGetFeatureValue(CommonUsages.trigger, out float pointerValue))
             SetFingerTargets(pointFingers, pointerValue);
     }
     // If the controll can trigger it will pull the different values from the controller for the approriate finger/s
-
+    */
     private void SetFingerTargets(List<Finger> fingers, float value)
     {
         foreach(Finger finger in fingers)
